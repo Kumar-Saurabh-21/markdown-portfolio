@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# List of cricketers
+- Rohit sharma
+- Shubhaman Gill
+- Virat Kohli
